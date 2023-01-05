@@ -5,7 +5,7 @@
 - Mysql 8
 - [sql file](https://cdn.fygod.xyz/yoyoshop.sql)
 
-**shopping mall designed by lanou day 5** 
+**shopping mall designed by lanou day 7** 
 
 The default password in c3p0-config.xml should be modified before you start to run it.
 
